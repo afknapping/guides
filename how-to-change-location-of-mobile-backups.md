@@ -2,6 +2,7 @@
 
 - find `cd ~/Library/Application Support/MobileSync`
 - in there is `Backup`
+- move backup to (new location)/MobileBackups
 
 (new location)/MobileBackups
 
