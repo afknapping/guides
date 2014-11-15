@@ -10,4 +10,4 @@ Guides from others:
 
 ### [How not to `rm` yourself](https://github.com/sindresorhus/guides/blob/master/how-not-to-rm-yourself.md)
 
-## [How to install npm packages globally without sudo](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
+### [How to install npm packages globally without sudo](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
